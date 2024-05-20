@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/MritunjayKumar07/Video-calling-web-app-client-side.git
+[submodule "server"]
+	path = server
+	url = https://github.com/MritunjayKumar07/Video-calling-web-app-server-side.git
